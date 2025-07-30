@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+  <header class="header">
+    <h2>Today's News</h2>
+  </header>
+
+  <div class="latest-news-section">
+    <h3>Latest News</h3>
+    <ul>
+      <li>India launches new space mission successfully.</li>
+      <li>Global stock markets show signs of recovery.</li>
+      <li>Major breakthrough in renewable energy research.</li>
+    </ul>
+  </div>
+
+  <div class="pictorial-news-section">
+    <h3>Pictorial News</h3>
+    <div class="images">
+      <img src="Image_one.jpg" alt="News Image 1" />
+      <img src="Image_two.jpg" alt="News Image 2" />
+      <img src="Image_three.jpg" alt="News Image 3" />
+    </div>
+  </div>
